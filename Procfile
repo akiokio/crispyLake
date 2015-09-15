@@ -1,1 +1,1 @@
-web: gunicorn cripyLake.wsgi --log-file -
+web: gunicorn crispyLake.wsgi --log-file -
